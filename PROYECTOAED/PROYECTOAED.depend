@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1614876979 source:c:\users\jonathan\desktop\proyectoaed\main.cpp
+	<iostream>
+	"login.h"
+
+1614843148 c:\users\jonathan\desktop\proyectoaed\login.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	"registro.h"
+
+1614917768 c:\users\jonathan\desktop\proyectoaed\registro.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	"ordenar.h"
+
+1614917800 c:\users\jonathan\desktop\proyectoaed\ordenar.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	"registro.h"
+
+1614954201 source:c:\users\jonathan\desktop\proyectoaed - respaldo\main.cpp
+	<iostream>
+	"menu3.h"
+
+1614954168 c:\users\jonathan\desktop\proyectoaed - respaldo\login.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+
+1615061742 c:\users\jonathan\desktop\proyectoaed - respaldo\registro.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+
+1615059303 c:\users\jonathan\desktop\proyectoaed - respaldo\ordenar.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<ctime>
+
+1615061742 c:\users\jonathan\desktop\proyectoaed - respaldo\menu3.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	"login.h"
+	"registro.h"
+	"ordenar.h"
+	"busqueda.h"
+	<fstream>
+
+1615061742 c:\users\jonathan\desktop\proyectoaed - respaldo\busqueda.h
+
+1615144857 source:d:\documentos\algoritmos y estructuras de datos\proyectoaed - oficial\proyectoaed - respaldo\main.cpp
+	<iostream>
+	<cstdlib>
+	"menu3.h"
+
+1615144833 d:\documentos\algoritmos y estructuras de datos\proyectoaed - oficial\proyectoaed - respaldo\menu3.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	"login.h"
+	"registro.h"
+	"ordenar.h"
+	"busqueda.h"
+	<fstream>
+
+1615083493 d:\documentos\algoritmos y estructuras de datos\proyectoaed - oficial\proyectoaed - respaldo\login.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+
+1615136996 d:\documentos\algoritmos y estructuras de datos\proyectoaed - oficial\proyectoaed - respaldo\registro.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+
+1615143439 d:\documentos\algoritmos y estructuras de datos\proyectoaed - oficial\proyectoaed - respaldo\ordenar.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<ctime>
+
+1615143440 d:\documentos\algoritmos y estructuras de datos\proyectoaed - oficial\proyectoaed - respaldo\busqueda.h
+
+1615172288 source:c:\users\jonathan\desktop\proyectoaed - oficial-dise—o\proyectoaed - respaldo123\main.cpp
+	<iostream>
+	<cstdlib>
+	"menu3.h"
+
+1615252794 c:\users\jonathan\desktop\proyectoaed - oficial-dise—o\proyectoaed - respaldo123\menu3.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	"login.h"
+	"registro.h"
+	"ordenar.h"
+	"busqueda.h"
+	<fstream>
+
+1615171172 c:\users\jonathan\desktop\proyectoaed - oficial-dise—o\proyectoaed - respaldo123\login.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+
+1615252563 c:\users\jonathan\desktop\proyectoaed - oficial-dise—o\proyectoaed - respaldo123\registro.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+
+1615252021 c:\users\jonathan\desktop\proyectoaed - oficial-dise—o\proyectoaed - respaldo123\ordenar.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<ctime>
+
+1615252192 c:\users\jonathan\desktop\proyectoaed - oficial-dise—o\proyectoaed - respaldo123\busqueda.h
+
